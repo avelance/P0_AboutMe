@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<!DOCTYPE html>
 <html>
     <head>
         <title>About Me</title>
@@ -15,21 +16,21 @@
                     <h1>Front-End Apprentice</h1>
                 </div>
             </header>
-            <h1="hero">
+            <section class="hero">
                 <div class="content">
                     <img class="my-picture" src="http://pbs.twimg.com/profile_images/3438688781/ed3a952bf413581ecb673375cb0569d6.jpeg" alt="This is a picture of me">
                     <p class="my-name">Stefanie Wong</p>
                     <p class="my-address">Natick, MA</p>
                 </div>
-            </h1>
-            <h2="about-me content">
+            </section>
+            <section class="about-me content">
                 <p class="iama">I want to be...</p>
                 <p class="my-info">a front-end product ninja</p>
                 <p class="iama">My favorite way to work is...</p>
                 <p class="my-info">wee hours in the morning when everyone is snoozing their alarms</p>
                 <p class="iama">In my free time, I like to...</p>
                 <p class="my-info">practice language, ride a horse, and cook Chinese food!</p>
-            </h2>
+            </section>
         </main>
     </body>
 </html>
